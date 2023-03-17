@@ -47,5 +47,3 @@ new ClientToClientConnector("公网服务器ip", 10520, "127.0.0.1", b, c);
 
 4、协议和数据加密
 
-
-# telepathy
